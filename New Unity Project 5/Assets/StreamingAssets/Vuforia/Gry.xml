@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="house4" size="600.000000 488.085938" />
+    <ImageTarget name="house3" size="600.000000 488.085938" />
+    <ImageTarget name="house2" size="600.000000 488.085938" />
+    <ImageTarget name="house" size="600.000000 488.085938" />
+    <ImageTarget name="tree6" size="600.000000 589.337646" />
+    <ImageTarget name="tree5" size="600.000000 589.337646" />
+    <ImageTarget name="tree4" size="600.000000 589.337646" />
+    <ImageTarget name="tree3" size="600.000000 589.337646" />
+    <ImageTarget name="tree2" size="600.000000 589.337646" />
+    <ImageTarget name="church-logo-symbol" size="600.000000 600.000000" />
+    <ImageTarget name="tree" size="600.000000 589.337646" />
+  </Tracking>
+</QCARConfig>
